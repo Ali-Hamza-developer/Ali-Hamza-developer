@@ -1,3 +1,8 @@
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
+
+
 <h1 align="center">Hi 👋, I'm Ali Hamza</h1>  
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>  
 
@@ -44,6 +49,7 @@
 ---
 
 ## 🐍 Watch my contributions get eaten by a snake!
-<p align="center">
-  <img src="https://raw.githubusercontent.com/ali-hamza-developer/ali-hamza-developer/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
-</p>
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+
