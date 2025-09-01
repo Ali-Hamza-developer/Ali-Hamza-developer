@@ -33,8 +33,8 @@
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-hamza-developer&show_icons=true&theme=tokyonight" height="160" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hamza-developer&theme=tokyonight" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-hamza-developer&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hamza-developer&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
@@ -45,5 +45,5 @@
 
 ## 🐍 Watch my contributions get eaten by a snake!
 <p align="center">
-  <img src="https://raw.githubusercontent.com/ali-hamza-developer/ali-hamza-developer/output/snake.svg" alt="Snake animation"/>
+  <img src="https://raw.githubusercontent.com/ali-hamza-developer/ali-hamza-developer/output/github-contribution-grid-snake.svg" alt="Snake animation"/>
 </p>
