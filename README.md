@@ -1,16 +1,49 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Ali Hamza</h1>  
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>  
 
-<!--
-**Ali-Hamza-developer/Ali-Hamza-developer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+- 🌱 I’m currently learning **Probability, Statistics, and Advanced Machine Learning.**  
+- 💬 Ask me about **Python, Data Science basics, and AI learning resources.**  
+- 📫 How to reach me: **alihamza25856@gmail.com**  
+- ⚡ Fun fact: *I talk more to Python than people sometimes 🐍*  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌐 Connect with me
+<p align="left">
+  <a href="https://linkedin.com/in/ali-hamza-27082a363" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:alihamza25856@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages & Tools
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,mysql,sqlite,gcp,postman" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=pandas,sklearn,seaborn" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ali-hamza-developer&show_icons=true&theme=tokyonight" height="160" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hamza-developer&theme=tokyonight" height="160" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-hamza-developer&layout=compact&theme=tokyonight" height="160" />
+</p>
+
+---
+
+## 🐍 Watch my contributions get eaten by a snake!
+<p align="center">
+  <img src="https://raw.githubusercontent.com/ali-hamza-developer/ali-hamza-developer/output/snake.svg" alt="Snake animation"/>
+</p>
