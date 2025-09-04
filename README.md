@@ -2,7 +2,6 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 
-
 <h1 align="center">Hi 👋, I'm Ali Hamza</h1>  
 <h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>  
 
@@ -38,15 +37,15 @@
 
 ## 📊 GitHub Stats
 <p align="center">
+  <!-- GitHub Stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=ali-hamza-developer&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ali-hamza-developer&theme=tokyonight" height="150" />
+
+  <!-- GitHub Streak -->
+  <img src="https://streak-stats.demolab.com?user=ali-hamza-developer&theme=tokyonight" height="150" />
 </p>
 
 <p align="center">
+  <!-- Top Languages -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-hamza-developer&layout=compact&theme=tokyonight" height="160" />
 </p>
-
----
-
-
 
