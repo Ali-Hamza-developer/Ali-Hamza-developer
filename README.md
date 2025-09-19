@@ -40,15 +40,16 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="center">
-  <!-- GitHub Stats -->
+<div align="center">
+
+  <!-- Row 1: GitHub Stats + Streak side by side -->
   <img src="https://github-readme-stats.vercel.app/api?username=ali-hamza-developer&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://streak-stats.demolab.com?user=ali-hamza-developer&theme=tokyonight&date_format=j%20M%5B%20Y%5D&hide_border=false" height="150" />
 
-  <!-- GitHub Streak -->
- <img src="https://streak-stats.demolab.com?user=ali-hamza-developer&theme=tokyonight" alt="GitHub Streak" height="150"/>
-</p>
+  <br/><br/>
 
-<p align="center">
-  <!-- Top Languages -->
+  <!-- Row 2: Top Languages centered -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-hamza-developer&layout=compact&theme=tokyonight" height="160" />
-</p>
+
+</div>
+
