@@ -1,16 +1,16 @@
 <div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" />
 </div>
 
-<h1 align="center">Hi 👋, I'm Ali Hamza</h1>  
-<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>  
+<h1 align="center">Hi 👋, I'm Ali Hamza</h1>
+<h3 align="center">Aspiring Data Scientist | Machine Learning Enthusiast | AI Explorer</h3>
 
 ---
 
-- 🌱 I’m currently learning **Probability, Statistics, and Advanced Machine Learning.**  
-- 💬 Ask me about **Python, Data Science basics, and AI learning resources.**  
-- 📫 How to reach me: **alihamza25856@gmail.com**  
-- ⚡ Fun fact: *I talk more to Python than people sometimes 🐍*  
+- 🌱 I’m currently learning **Probability, Statistics, and Advanced Machine Learning**
+- 💬 Ask me about **Python, Data Science basics, and AI learning resources**
+- 📫 How to reach me: **alihamza25856@gmail.com**
+- ⚡ Fun fact: *I talk more to Python than people sometimes 🐍*
 
 ---
 
@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ali-hamza-developer&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=ali-hamza-developer&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -33,23 +33,11 @@
 ## 🛠️ Languages & Tools
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,mysql,sqlite,gcp,postman" />
-  <br/>
+</p>
+<p align="center">
   <img src="https://skillicons.dev/icons?i=pandas,sklearn,seaborn" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
-<div align="center">
-
-  <!-- Row 1: GitHub Stats + Streak side by side -->
-  <img src="https://github-readme-stats.vercel.app/api?username=ali-hamza-developer&show_icons=true&theme=tokyonight" height="150" />
-  <img src="https://streak-stats.demolab.com?user=ali-hamza-developer&theme=tokyonight&date_format=j%20M%5B%20Y%5D&hide_border=false" height="150" />
-
-  <br/><br/>
-
-  <!-- Row 2: Top Languages centered -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ali-hamza-developer&layout=compact&theme=tokyonight" height="160" />
-
-</div>
 
