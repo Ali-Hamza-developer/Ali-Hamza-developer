@@ -7,7 +7,7 @@
 
 ---
 
-- 🌱 I’m currently learning **Probability, Statistics, and Advanced Machine Learning**
+-  🔭 Currently working on my FYP — **Intelligent UAV Detection with an Interactive LLM Assistant**
 - 💬 Ask me about **Python, Data Science basics, and AI learning resources**
 - 📫 How to reach me: **alihamza25856@gmail.com**
 - ⚡ Fun fact: *I talk more to Python than people sometimes 🐍*
@@ -15,6 +15,7 @@
 ---
 
 ## 🌐 Connect with me
+
 <p align="center">
   <a href="https://linkedin.com/in/ali-hamza-27082a363" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -31,6 +32,7 @@
 ---
 
 ## 🛠️ Languages & Tools
+
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,cpp,cs,html,css,js,mysql,sqlite,gcp,postman" />
 </p>
@@ -40,4 +42,25 @@
 
 ---
 
+## 🚀 My Projects
 
+| Project | Description | Tech |
+|---|---|---|
+| [🌤️ MausamApp](https://github.com/Ali-Hamza-developer/mausamApp) | Responsive weather dashboard with city search, live forecasts and light/dark mode | HTML, CSS, JS, OpenWeather API |
+| [💰 ZenWallet](https://github.com/Ali-Hamza-developer/ZenWallet) | Private expense tracker with budgets, goals, charts and currency conversion | React, TypeScript, Tailwind CSS |
+| [🛡️ Credit Card Fraud Detector](https://github.com/Ali-Hamza-developer/Credit-Card-Fraud-Detector) | ML dashboard to detect fraud using 6 supervised learning algorithms with interactive charts | Python, Streamlit, Scikit-learn |
+| [🤖 ML Mini Projects](https://github.com/Ali-Hamza-developer/machine-learning-projects) | Collection of beginner to intermediate machine learning mini projects | Python, Pandas, Scikit-learn |
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ali-Hamza-developer&show_icons=true&theme=tokyonight&hide_border=true" width="48%"/>
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hamza-developer&layout=compact&theme=tokyonight&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Hamza-developer&theme=tokyonight&hide_border=true"/>
+</p>
