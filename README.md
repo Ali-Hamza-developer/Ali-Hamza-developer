@@ -49,6 +49,7 @@
 | [🌤️ MausamApp](https://github.com/Ali-Hamza-developer/mausamApp) | Responsive weather dashboard with city search, live forecasts and light/dark mode | HTML, CSS, JS, OpenWeather API |
 | [💰 ZenWallet](https://github.com/Ali-Hamza-developer/ZenWallet) | Private expense tracker with budgets, goals, charts and currency conversion | React, TypeScript, Tailwind CSS |
 | [🛡️ Credit Card Fraud Detector](https://github.com/Ali-Hamza-developer/Credit-Card-Fraud-Detector) | ML dashboard to detect fraud using 6 supervised learning algorithms with interactive charts | Python, Streamlit, Scikit-learn |
+| [🎬 Movie Recommender System](https://github.com/Ali-Hamza-developer/movie-recommender-streamlit) | Streamlit-based movie recommendation system using cosine similarity and TMDB API for personalized movie suggestions | Python, Streamlit, Pandas, Scikit-learn |
 | [🤖 ML Mini Projects](https://github.com/Ali-Hamza-developer/machine-learning-projects) | Collection of beginner to intermediate machine learning mini projects | Python, Pandas, Scikit-learn |
 
 ---
