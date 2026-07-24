@@ -280,17 +280,6 @@ Private expense tracker with budgets, goals, interactive charts and currency con
 
 <br/>
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Ali-Hamza-developer&theme=algolia)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
-> **Note:** if the trophies don't render, open the image URL above directly in a browser tab first — the trophy service builds the image on first request and GitHub's README cache sometimes grabs a stale/empty version before that finishes. Refreshing the raw URL once forces it to regenerate, and then it renders normally here.
-
-<br/>
 
 ## 📊 GitHub Stats
 
