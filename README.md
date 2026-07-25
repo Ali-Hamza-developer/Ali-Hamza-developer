@@ -124,11 +124,11 @@ Analyzed customer data to identify top customers using **RFM analysis**. Perform
 </td>
 <td valign="top" width="50%">
 
-- 📜 Google Workspace Specialization
 - 📜 IBM Data Science Specialization
 - 📜 IBM Specialization
 - 📜 Machine Learning Specialization
-
+- 📜 Google Workspace Specialize
+  
 </td>
 </tr>
 </table>
