@@ -284,8 +284,7 @@ Private expense tracker with budgets, goals, interactive charts and currency con
 ## 📊 GitHub Stats
 
 <p align="center">
-
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Hamza-developer&theme=tokyonight&hide_border=true" width="49%"/>
+  <img src="https://streak-stats.demolab.com/?user=Ali-Hamza-developer&theme=tokyonight&hide_border=true" width="49%"/>
 </p>
 
 <br/>
