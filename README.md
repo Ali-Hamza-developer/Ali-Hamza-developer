@@ -51,6 +51,7 @@ ali_hamza = {
     "experience":  ["Fluxxion (Data Analytics)", "FlyRank AI (ML Intern)"],
     "currently":   "FYP — VisioGuard AI: UAV Detection + LLM Assistant 🛰️",
     "learning":    "Deep Learning (CampusX) → PyTorch next",
+    "portfolio":   "alihamzadev.vercel.app",
     "open_to":     True,   # internships & collaborations
     "fun_fact":    "I talk more to Python than people 🐍",
 }
@@ -128,7 +129,7 @@ Analyzed customer data to identify top customers using **RFM analysis**. Perform
 - 📜 IBM Specialization
 - 📜 Machine Learning Specialization
 - 📜 Google Workspace Specialize
-  
+
 </td>
 </tr>
 </table>
@@ -171,14 +172,19 @@ An **intelligent UAV detection system** built with a Next.js frontend, a MongoDB
 
 ## 🚀 Featured Projects
 
-<div align="center">
+<p align="center"><i>🌐 Full write-ups and live demos also on my portfolio — <a href="https://alihamzadev.vercel.app">alihamzadev.vercel.app</a></i></p>
 
-<table>
+<br/>
+
+<!-- PROJECT 1 -->
+<table width="100%">
 <tr>
-<td align="center" width="50%">
+<td width="35%" valign="middle" align="center">
+<img src="assets/fraud-detector.png" width="100%" style="border-radius:10px" alt="Credit Card Fraud Detector"/>
+</td>
+<td width="65%" valign="top">
 
 ### 🛡️ Credit Card Fraud Detector
-[![FraudDetector](https://img.shields.io/badge/VIEW-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/Credit-Card-Fraud-Detector)
 
 ML dashboard detecting fraud using 6 supervised learning algorithms with interactive charts and real-time predictions.
 
@@ -186,50 +192,194 @@ ML dashboard detecting fraud using 6 supervised learning algorithms with interac
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
+[![View Repo](https://img.shields.io/badge/VIEW-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/Credit-Card-Fraud-Detector)
+
 </td>
-<td align="center" width="50%">
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 2 -->
+<table width="100%">
+<tr>
+<td width="35%" valign="middle" align="center">
+<img src="assets/movie-recommender.png" width="100%" style="border-radius:10px" alt="Movie Recommender System"/>
+</td>
+<td width="65%" valign="top">
 
 ### 🎬 Movie Recommender System
-[![MovieRec](https://img.shields.io/badge/VIEW-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/movie-recommender-streamlit)
 
-Streamlit-based movie recommendation engine using cosine similarity and TMDB API for personalized suggestions.
+Streamlit-based movie recommendation engine using cosine similarity and the TMDB API for personalized suggestions.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
 
-</td>
-</tr>
-<tr>
-<td align="center" width="50%">
-
-### 🌤️ MausamApp
-[![MausamApp](https://img.shields.io/badge/VIEW-GitHub-f59e0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/mausamApp)
-
-Responsive weather dashboard with city search, live forecasts and light/dark mode toggle.
-
-![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-</td>
-<td align="center" width="50%">
-
-### 💰 ZenWallet
-[![ZenWallet](https://img.shields.io/badge/VIEW-GitHub-f59e0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/ZenWallet)
-
-Private expense tracker with budgets, goals, interactive charts and currency conversion.
-
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+[![View Repo](https://img.shields.io/badge/VIEW-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/movie-recommender-streamlit)
 
 </td>
 </tr>
 </table>
 
-</div>
+<br/>
+
+<!-- PROJECT 3 -->
+<table width="100%">
+<tr>
+<td width="35%" valign="middle" align="center">
+<img src="assets/mausamapp.png" width="100%" style="border-radius:10px" alt="MausamApp"/>
+</td>
+<td width="65%" valign="top">
+
+### 🌤️ MausamApp
+
+Responsive weather dashboard with city search, live forecasts, and a light/dark mode toggle.
+
+![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+
+[![View Repo](https://img.shields.io/badge/VIEW-GitHub-f59e0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/mausamApp)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 4 -->
+<table width="100%">
+<tr>
+<td width="35%" valign="middle" align="center">
+<img src="assets/zenwallet.png" width="100%" style="border-radius:10px" alt="ZenWallet"/>
+</td>
+<td width="65%" valign="top">
+
+### 💰 ZenWallet
+
+Private expense tracker with budgets, goals, interactive charts, and currency conversion.
+
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/VIEW-GitHub-f59e0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/ZenWallet)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 5 -->
+<table width="100%">
+<tr>
+<td width="35%" valign="middle" align="center">
+<img src="assets/nlp-hub.png" width="100%" style="border-radius:10px" alt="NLP Hub"/>
+</td>
+<td width="65%" valign="top">
+
+### 🔤 NLP Hub
+
+An earth-toned web application featuring six dedicated NLP tools powered by pretrained Hugging Face models, built with a FastAPI backend and a Next.js TypeScript frontend.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+
+[![View Repo](https://img.shields.io/badge/VIEW-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/NLP_Project)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 6 -->
+<table width="100%">
+<tr>
+<td width="35%" valign="middle" align="center">
+<img src="assets/quickbite.png" width="100%" style="border-radius:10px" alt="QuickBite Chatbot"/>
+</td>
+<td width="65%" valign="top">
+
+### 🍢 QuickBite — Conversational Food-Ordering Chatbot
+
+A conversational AI chatbot for ordering food from a desi street food stall — customers order naturally ("2 samosas and a chai", "remove the chai", "track my order"). Built by manually designing intents, training phrases, entities, and contexts in Dialogflow ES, with a FastAPI webhook managing order logic and MySQL storing orders.
+
+![Dialogflow](https://img.shields.io/badge/Dialogflow_ES-FF9800?style=flat-square&logo=dialogflow&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/VIEW-GitHub-f59e0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/NLP_Chatbot_project)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- PROJECT 7 -->
+<table width="100%">
+<tr>
+<td width="35%" valign="middle" align="center">
+<img src="assets/fashion-recommender.png" width="100%" style="border-radius:10px" alt="AI Fashion Recommendation System"/>
+</td>
+<td width="65%" valign="top">
+
+### 👕 AI Fashion Recommendation System
+
+AI-powered fashion recommendation app that finds visually similar clothing from an uploaded photo. Uses **PyTorch (ResNet50 transfer learning)** to turn each image into a 2048-dim embedding, **FAISS** for instant cosine-similarity search across the catalog, and a **Streamlit** multi-page app (Recommendation, Gallery, Dashboard, Favorites, History) backed by SQLite.
+
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-6366f1?style=flat-square)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+
+[![View Repo](https://img.shields.io/badge/VIEW-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/pytorch-fashion-recommender)
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+
+<br/>
+
+## 🏆 Hackathons
+
+<!-- HACKATHON PROJECT -->
+<table width="100%">
+<tr>
+<td width="35%" valign="middle" align="center">
+<img src="assets/coolroute.png" width="100%" style="border-radius:10px" alt="CoolRoute"/>
+</td>
+<td width="65%" valign="top">
+
+### 🌡️ CoolRoute — Heat-Aware Route Planner
+
+**Built for the FortyGuard Global AI Hackathon 2026 — Track 01: Resilient Cities & Infrastructure**
+
+An AI-powered route planner that finds the walking, riding, or driving route with the **least heat exposure** — not just the shortest one. CoolRoute samples hyperlocal temperature data along multiple OSRM-generated candidate routes, scores each route's heat exposure, and highlights the coolest practical option on an interactive Leaflet map with a time-of-day comparison and shareable result card.
+
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Tailwind](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-199900?style=flat-square&logo=leaflet&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-coolroute--six.vercel.app-f59e0b?style=for-the-badge)](https://coolroute-six.vercel.app)
+[![View Repo](https://img.shields.io/badge/VIEW-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/coolroute-hackathon)
+
+</td>
+</tr>
+</table>
 
 <br/>
 
@@ -246,6 +396,7 @@ Private expense tracker with budgets, goals, interactive charts and currency con
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
@@ -254,14 +405,17 @@ Private expense tracker with budgets, goals, interactive charts and currency con
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![TailwindCSS](https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-**ML & Deep Learning**
+**ML, NLP & Deep Learning**
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Dialogflow](https://img.shields.io/badge/Dialogflow_ES-FF9800?style=for-the-badge&logo=dialogflow&logoColor=white)
 
 **Databases & Tools**
 
@@ -279,7 +433,6 @@ Private expense tracker with budgets, goals, interactive charts and currency con
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 <br/>
-
 
 ## 📊 GitHub Stats
 
@@ -313,6 +466,8 @@ Private expense tracker with budgets, goals, interactive charts and currency con
 📊 Data Analytics Intern @ Fluxxion (Ex)
 🏅 Google & IBM Certified
 🛰️ Building VisioGuard AI — UAV Detection FYP
+🏆 FortyGuard Global AI Hackathon 2026 — CoolRoute
+🌐 Portfolio: alihamzadev.vercel.app
 🤝 Open to internships & ML collaborations
 📬 Response time: within 24 hours
 ```
