@@ -179,7 +179,7 @@ An **intelligent UAV detection system** built with a Next.js frontend, a MongoDB
 <!-- PROJECT 1 -->
 <div align="center">
 
-<img src="assets/fraud-detector.png" width="60%" style="border-radius:10px; max-width:380px;" alt="Credit Card Fraud Detector"/>
+<img src="assets/fraud-detector.png" width="40%" style="border-radius:10px; max-width:260px;" alt="Credit Card Fraud Detector"/>
 
 ### 🛡️ Credit Card Fraud Detector
 
@@ -196,15 +196,13 @@ ML dashboard detecting fraud using 6 supervised learning algorithms with interac
 <br/>
 
 <div align="center">
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:f59e0b&height=3&section=header&width=100%25" width="100%"/>
 </div>
 
 <!-- PROJECT 2 -->
 <div align="center">
 
-<img src="assets/movie-recommender.png" width="60%" style="border-radius:10px; max-width:380px;" alt="Movie Recommender System"/>
+<img src="assets/movie-recommender.png" width="40%" style="border-radius:10px; max-width:260px;" alt="Movie Recommender System"/>
 
 ### 🎬 Movie Recommender System
 
@@ -222,15 +220,13 @@ Streamlit-based movie recommendation engine using cosine similarity and the TMDB
 <br/>
 
 <div align="center">
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:f59e0b&height=3&section=header&width=100%25" width="100%"/>
 </div>
 
 <!-- PROJECT 3 -->
 <div align="center">
 
-<img src="assets/mausamapp.png" width="60%" style="border-radius:10px; max-width:380px;" alt="MausamApp"/>
+<img src="assets/mausamapp.png" width="40%" style="border-radius:10px; max-width:260px;" alt="MausamApp"/>
 
 ### 🌤️ MausamApp
 
@@ -247,15 +243,13 @@ Responsive weather dashboard with city search, live forecasts, and a light/dark 
 <br/>
 
 <div align="center">
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:f59e0b&height=3&section=header&width=100%25" width="100%"/>
 </div>
 
 <!-- PROJECT 4 -->
 <div align="center">
 
-<img src="assets/zenwallet.png" width="60%" style="border-radius:10px; max-width:380px;" alt="ZenWallet"/>
+<img src="assets/zenwallet.png" width="40%" style="border-radius:10px; max-width:260px;" alt="ZenWallet"/>
 
 ### 💰 ZenWallet
 
@@ -272,15 +266,13 @@ Private expense tracker with budgets, goals, interactive charts, and currency co
 <br/>
 
 <div align="center">
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:f59e0b&height=3&section=header&width=100%25" width="100%"/>
 </div>
 
 <!-- PROJECT 5 -->
 <div align="center">
 
-<img src="assets/nlp-hub.png" width="60%" style="border-radius:10px; max-width:380px;" alt="NLP Hub"/>
+<img src="assets/nlp-hub.png" width="40%" style="border-radius:10px; max-width:260px;" alt="NLP Hub"/>
 
 ### 🔤 NLP Hub
 
@@ -298,15 +290,13 @@ An earth-toned web application featuring six dedicated NLP tools powered by pret
 <br/>
 
 <div align="center">
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:f59e0b&height=3&section=header&width=100%25" width="100%"/>
 </div>
 
 <!-- PROJECT 6 -->
 <div align="center">
 
-<img src="assets/quickbite.png" width="60%" style="border-radius:10px; max-width:380px;" alt="QuickBite Chatbot"/>
+<img src="assets/quickbite.png" width="40%" style="border-radius:10px; max-width:260px;" alt="QuickBite Chatbot"/>
 
 ### 🍢 QuickBite — Conversational Food-Ordering Chatbot
 
@@ -324,15 +314,13 @@ A conversational AI chatbot for ordering food from a desi street food stall — 
 <br/>
 
 <div align="center">
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:f59e0b&height=3&section=header&width=100%25" width="100%"/>
 </div>
 
 <!-- PROJECT 7 -->
 <div align="center">
 
-<img src="assets/fashion-recommender.png" width="60%" style="border-radius:10px; max-width:380px;" alt="AI Fashion Recommendation System"/>
+<img src="assets/fashion-recommender.png" width="40%" style="border-radius:10px; max-width:260px;" alt="AI Fashion Recommendation System"/>
 
 ### 👕 AI Fashion Recommendation System
 
@@ -350,9 +338,7 @@ AI-powered fashion recommendation app that finds visually similar clothing from 
 <br/>
 
 <div align="center">
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:f59e0b&height=3&section=header&width=100%25" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
@@ -364,7 +350,7 @@ AI-powered fashion recommendation app that finds visually similar clothing from 
 <!-- HACKATHON PROJECT -->
 <div align="center">
 
-<img src="assets/coolroute.png" width="60%" style="border-radius:10px; max-width:380px;" alt="CoolRoute"/>
+<img src="assets/coolroute.png" width="40%" style="border-radius:10px; max-width:260px;" alt="CoolRoute"/>
 
 ### 🌡️ CoolRoute — Heat-Aware Route Planner
 
@@ -386,9 +372,7 @@ An AI-powered route planner that finds the walking, riding, or driving route wit
 <br/>
 
 <div align="center">
-
----
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6366f1,100:f59e0b&height=3&section=header&width=100%25" width="100%"/>
 </div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
