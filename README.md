@@ -177,12 +177,9 @@ An **intelligent UAV detection system** built with a Next.js frontend, a MongoDB
 <br/>
 
 <!-- PROJECT 1 -->
-<table width="100%">
-<tr>
-<td width="35%" valign="middle" align="center">
-<img src="assets/fraud-detector.png" width="100%" style="border-radius:10px" alt="Credit Card Fraud Detector"/>
-</td>
-<td width="65%" valign="top">
+<div align="center">
+
+<img src="assets/fraud-detector.png" width="60%" style="border-radius:10px; max-width:380px;" alt="Credit Card Fraud Detector"/>
 
 ### 🛡️ Credit Card Fraud Detector
 
@@ -194,19 +191,20 @@ ML dashboard detecting fraud using 6 supervised learning algorithms with interac
 
 [![View Repo](https://img.shields.io/badge/VIEW-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/Credit-Card-Fraud-Detector)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
+<div align="center">
+
+---
+
+</div>
+
 <!-- PROJECT 2 -->
-<table width="100%">
-<tr>
-<td width="35%" valign="middle" align="center">
-<img src="assets/movie-recommender.png" width="100%" style="border-radius:10px" alt="Movie Recommender System"/>
-</td>
-<td width="65%" valign="top">
+<div align="center">
+
+<img src="assets/movie-recommender.png" width="60%" style="border-radius:10px; max-width:380px;" alt="Movie Recommender System"/>
 
 ### 🎬 Movie Recommender System
 
@@ -219,19 +217,20 @@ Streamlit-based movie recommendation engine using cosine similarity and the TMDB
 
 [![View Repo](https://img.shields.io/badge/VIEW-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/movie-recommender-streamlit)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
+<div align="center">
+
+---
+
+</div>
+
 <!-- PROJECT 3 -->
-<table width="100%">
-<tr>
-<td width="35%" valign="middle" align="center">
-<img src="assets/mausamapp.png" width="100%" style="border-radius:10px" alt="MausamApp"/>
-</td>
-<td width="65%" valign="top">
+<div align="center">
+
+<img src="assets/mausamapp.png" width="60%" style="border-radius:10px; max-width:380px;" alt="MausamApp"/>
 
 ### 🌤️ MausamApp
 
@@ -243,19 +242,20 @@ Responsive weather dashboard with city search, live forecasts, and a light/dark 
 
 [![View Repo](https://img.shields.io/badge/VIEW-GitHub-f59e0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/mausamApp)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
+<div align="center">
+
+---
+
+</div>
+
 <!-- PROJECT 4 -->
-<table width="100%">
-<tr>
-<td width="35%" valign="middle" align="center">
-<img src="assets/zenwallet.png" width="100%" style="border-radius:10px" alt="ZenWallet"/>
-</td>
-<td width="65%" valign="top">
+<div align="center">
+
+<img src="assets/zenwallet.png" width="60%" style="border-radius:10px; max-width:380px;" alt="ZenWallet"/>
 
 ### 💰 ZenWallet
 
@@ -267,19 +267,20 @@ Private expense tracker with budgets, goals, interactive charts, and currency co
 
 [![View Repo](https://img.shields.io/badge/VIEW-GitHub-f59e0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/ZenWallet)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
+<div align="center">
+
+---
+
+</div>
+
 <!-- PROJECT 5 -->
-<table width="100%">
-<tr>
-<td width="35%" valign="middle" align="center">
-<img src="assets/nlp-hub.png" width="100%" style="border-radius:10px" alt="NLP Hub"/>
-</td>
-<td width="65%" valign="top">
+<div align="center">
+
+<img src="assets/nlp-hub.png" width="60%" style="border-radius:10px; max-width:380px;" alt="NLP Hub"/>
 
 ### 🔤 NLP Hub
 
@@ -292,19 +293,20 @@ An earth-toned web application featuring six dedicated NLP tools powered by pret
 
 [![View Repo](https://img.shields.io/badge/VIEW-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/NLP_Project)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
+<div align="center">
+
+---
+
+</div>
+
 <!-- PROJECT 6 -->
-<table width="100%">
-<tr>
-<td width="35%" valign="middle" align="center">
-<img src="assets/quickbite.png" width="100%" style="border-radius:10px" alt="QuickBite Chatbot"/>
-</td>
-<td width="65%" valign="top">
+<div align="center">
+
+<img src="assets/quickbite.png" width="60%" style="border-radius:10px; max-width:380px;" alt="QuickBite Chatbot"/>
 
 ### 🍢 QuickBite — Conversational Food-Ordering Chatbot
 
@@ -317,19 +319,20 @@ A conversational AI chatbot for ordering food from a desi street food stall — 
 
 [![View Repo](https://img.shields.io/badge/VIEW-GitHub-f59e0b?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/NLP_Chatbot_project)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
 
+<div align="center">
+
+---
+
+</div>
+
 <!-- PROJECT 7 -->
-<table width="100%">
-<tr>
-<td width="35%" valign="middle" align="center">
-<img src="assets/fashion-recommender.png" width="100%" style="border-radius:10px" alt="AI Fashion Recommendation System"/>
-</td>
-<td width="65%" valign="top">
+<div align="center">
+
+<img src="assets/fashion-recommender.png" width="60%" style="border-radius:10px; max-width:380px;" alt="AI Fashion Recommendation System"/>
 
 ### 👕 AI Fashion Recommendation System
 
@@ -342,11 +345,15 @@ AI-powered fashion recommendation app that finds visually similar clothing from 
 
 [![View Repo](https://img.shields.io/badge/VIEW-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/pytorch-fashion-recommender)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
+
+<div align="center">
+
+---
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
@@ -355,12 +362,9 @@ AI-powered fashion recommendation app that finds visually similar clothing from 
 ## 🏆 Hackathons
 
 <!-- HACKATHON PROJECT -->
-<table width="100%">
-<tr>
-<td width="35%" valign="middle" align="center">
-<img src="assets/coolroute.png" width="100%" style="border-radius:10px" alt="CoolRoute"/>
-</td>
-<td width="65%" valign="top">
+<div align="center">
+
+<img src="assets/coolroute.png" width="60%" style="border-radius:10px; max-width:380px;" alt="CoolRoute"/>
 
 ### 🌡️ CoolRoute — Heat-Aware Route Planner
 
@@ -377,11 +381,15 @@ An AI-powered route planner that finds the walking, riding, or driving route wit
 [![Live Demo](https://img.shields.io/badge/🌐_LIVE_DEMO-coolroute--six.vercel.app-f59e0b?style=for-the-badge)](https://coolroute-six.vercel.app)
 [![View Repo](https://img.shields.io/badge/VIEW-GitHub-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ali-Hamza-developer/coolroute-hackathon)
 
-</td>
-</tr>
-</table>
+</div>
 
 <br/>
+
+<div align="center">
+
+---
+
+</div>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
